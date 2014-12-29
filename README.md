@@ -1,6 +1,7 @@
 # amazon-echo-api
 
-This is (almost, kind of) an API for Amazon Echo.
+This is (almost, kind of) an API for Amazon
+Echo. [Video Demonstration][youtube]
 
 **This code is not for the faint of heart.** I wrote it in about three
 hours, the day after I got my Echo, and there are a lot of
@@ -69,3 +70,4 @@ above (in "Prerequisites").
 
 [wolfram]: https://developer.wolframalpha.com/portal/apisignup.html
 [hue-api]: https://github.com/peter-murray/node-hue-api
+[youtube]: https://www.youtube.com/watch?v=0I3E-auy8JA
