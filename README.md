@@ -55,6 +55,14 @@ Other credentials are located in `api/nest/.credentials.json` and
 you use to log in to the app, and the username for Hue is explained
 above (in "Prerequisites").
 
+## Running the App
+
+This is a Node app, so (after adding the required credentials) running
+the app is really just two steps:
+
+1. Run `npm install` to install required packages.
+1. Run `node app` to run the app.
+
 ## Todo
 
 - actual Amazon login (rather than this cookie hack)
