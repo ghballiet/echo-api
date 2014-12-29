@@ -19,7 +19,7 @@ owners.
 - **Username for your Hue:** if you're not messing with Hue, then
   don't worry about it. This was pretty easy to do in the Node REPL by
   loading [node-hue-api][hue-api] and just typing in the
-  commands. Eventually, the app should generate a new username
+  commands. Later versions of this app should generate a new username
   (assuming it doesn't have one saved) and save it for use later.
 
 ## Amazon Echo Credentials
