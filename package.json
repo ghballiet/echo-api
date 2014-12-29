@@ -1,0 +1,25 @@
+{
+  "name": "amazon-echo-api",
+  "version": "0.0.1",
+  "description": "Sort of an API for Amazon Echo (via Todos).",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghballiet/amazon-echo-api.git"
+  },
+  "author": "glen@glen.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghballiet/amazon-echo-api/issues"
+  },
+  "homepage": "https://github.com/ghballiet/amazon-echo-api",
+  "dependencies": {
+    "node-hue-api": "^0.2.6",
+    "request": "^2.51.0",
+    "unofficial-nest-api": "^0.1.4",
+    "wolfram-alpha": "^0.1.1"
+  }
+}
