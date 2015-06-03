@@ -46,7 +46,7 @@ do the following:
    clipboard. **This string has quotes in it; make sure to escape them
    before saving the file.**
 1. Replace `CsrfValueGoesHere` with the CSRF value from the cookie
-   string (should be a large negative integer).
+   string (should be a large integer).
 
 ## Other Credentials
 
